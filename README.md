@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jonesari
+ 👋 Hi, I’m ari
 - 👀 I’m interested in learning programming, the paranormal, the true history of the world, angel fish and aquatics in general.
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on a gigantic index, user friendly site of all of the information on paranormal, UAP and cryptid events that have happened in the world.
